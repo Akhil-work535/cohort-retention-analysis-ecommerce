@@ -62,7 +62,10 @@ This project aims to answer:
 
 - Cohort heatmap to visualize retention patterns  
 - Retention trend line showing drop-off over time  
-- KPI cards summarizing key retention metrics  
+- KPI cards summarizing key retention metrics
+
+- <img width="1408" height="781" alt="Screenshot 2026-08-07 201808" src="https://github.com/user-attachments/assets/2f3d21a2-ce3e-4888-b5d5-030765565fcd" />
+
 
 ---
 
